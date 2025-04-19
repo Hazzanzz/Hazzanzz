@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm Hassan, a passionate Software Engineer and AI Researcher with a strong focus on solving real-world problems using deep learning, computer vision, and NLP. I specialize in building intelligent systems, full-stack AI-powered applications, and fine-tuning large language models. My work often bridges the gap between academic research and practical implementation — whether it's through smart assistants, explainable AI in healthcare, or real-time facial recognition. I'm currently conducting research in AI and always exploring new frontiers in machine learning, ethical AI, and scalable system design.<br>
+👨‍💻 I'm Hassan, a passionate Software Engineer and AI Researcher with a strong focus on solving real-world problems.<br>
 
 
 ## 🌐 Socials:
@@ -26,7 +26,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazzanzz/Hazzanzz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazzanzz/Hazzanzz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Hazzanzz/Hazzanzz/output/github-snake.svg" />
 </picture>
