@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻  I'm Hassan Zahra, a dedicated Software Engineer and AI Researcher passionate about designing intelligent systems using practical machine learning and deep learning techniques. My current work focuses on AI system design, LLM fine-tuning, smart automation, and building full-stack applications powered by intelligent backends. <br>
+👨‍💻  I'm Hassan, a dedicated Software Engineer and AI Researcher passionate about designing intelligent systems using practical machine learning and deep learning techniques. My current work focuses on AI system design, LLM fine-tuning, smart automation, and building full-stack applications powered by intelligent backends. <br>
 
 
 ## 🌐 Socials:
